@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#Adding movies-api.js as I have my tmdb key in there 
+api/movies-api.js
