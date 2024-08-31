@@ -44,7 +44,7 @@ However the login and register are coming from the backend API. Will demonstrate
 
 ## Security and Authentication
 
-<!-- <Route path="/movies" element={<MoviesPage />} />
+<Route path="/movies" element={<MoviesPage />} />
               <Route path="/profile" element={<ProfilePage />} />
               <Route path="/upcomingmovies" element={<UpComingMoviesPage />} />
               <Route path="/tv" element={<TVpage />} />
