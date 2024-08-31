@@ -20,7 +20,7 @@ Name: Killian Halpin
  
 ## Setup requirements.
 
-N/A
+Realised after I commited to git that my TMDB key is in one of the files had to regenerate key after demo as a precaution, may need to add in your tmdb key. 
 
 ## API Configuration
 
